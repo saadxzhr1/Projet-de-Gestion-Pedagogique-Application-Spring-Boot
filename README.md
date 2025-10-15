@@ -1,3 +1,6 @@
+################################################################
+⚠️ Note
+Pour une presentation complete est meilleur >>> Rapport_PFE-ZahraouiSaad.pdf
 
 ################################################################
 
@@ -118,8 +121,7 @@ Fournir une solution moderne, fiable et extensible de gestion pédagogique, rép
 
 
 
-⚠️ Note
-Pour Plus de details sur l'aplication >>> 
+
 
 
 Le code source complet et la documentation technique détaillée ne sont pas publiés sur ce dépôt public pour des raisons de confidentialité.
