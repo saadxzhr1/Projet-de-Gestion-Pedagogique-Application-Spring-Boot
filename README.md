@@ -1,8 +1,5 @@
 ################################################################
-⚠️ Note
-Pour une presentation complete est meilleur >>> Rapport_PFE-ZahraouiSaad.pdf
 
-################################################################
 
 🚧 Évolution du projet
  Version actuelle
@@ -49,7 +46,10 @@ Docker / Docker Compose	Déploiement simplifié et environnement reproductible
 💡 Cette version est conçue pour offrir une architecture plus propre, testée et extensible, conforme aux standards professionnels et prête pour la conteneurisation.
 
 
+⚠️ Note
+Pour une presentation complete est meilleur >>> Rapport_PFE-ZahraouiSaad.pdf
 
+################################################################
 ##########################################################################
 ################################################################
 
